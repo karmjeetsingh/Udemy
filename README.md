@@ -1,6 +1,7 @@
-#Fetch and PULL and PUSH 
+# Fetch and PULL and PUSH 
 
 This repository is practice of concepts and today i am also creating a 'README.md' file 
 
-** Guitar
-Keyboard Harmonium ** 
+`#0969DA`**Guitar
+Keyboard Harmonium**
+- For more info [facebookkarma](www.facebook.com)
